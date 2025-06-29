@@ -23,7 +23,8 @@ A responsive photo gallery built using **HTML** and **CSS Flexbox**, designed to
 
 ## 🔗 Live Demo
 
-[View Live Gallery](https://chavan-prachi.github.io/CSS-Flexbox-Photo-Gallery/) 
+Check out the live CSS Flexbox Photo Gallery here:  
+🔗 [https://chavan-prachi.github.io/CSS-Flexbox-Photo-Gallery](https://chavan-prachi.github.io/CSS-Flexbox-Photo-Gallery/) 
 
 ## 📁 Folder Structure
 
